@@ -1,0 +1,160 @@
+{
+  "categories":[
+    {
+        "id":6,
+        "name":"Gönderim Amacına Göre",
+        "description":"-",
+        "order":1,
+        "sub_category":[
+           {
+              "id":1,
+              "parent_id":6,
+              "name":"Anneye Çiçek",
+              "description":"-",
+              "order":1,
+              "slug":"anneye-cicek"
+           },
+           {
+              "id":2,
+              "parent_id":6,
+              "name":"Sevgiliye Çiçek",
+              "description":"-",
+              "order":2,
+              "slug":"sevgiliye-cicek"
+           },
+           {
+              "id":3,
+              "parent_id":6,
+              "name":"Öğretmene Çiçek",
+              "description":"-",
+              "order":3,
+              "slug":"oretmene-cicek"
+           },
+           {
+              "id":4,
+              "parent_id":6,
+              "name":"Doğum Günü",
+              "description":"-",
+              "order":4,
+              "slug":"doum-gunu"
+           },
+           {
+              "id":5,
+              "parent_id":6,
+              "name":"Özür Dilerim",
+              "description":"-",
+              "order":5,
+              "slug":"ozur-dilerim"
+           },
+           {
+              "id":6,
+              "parent_id":6,
+              "name":"Babaya Çiçek",
+              "description":"-",
+              "order":6,
+              "slug":"babaya-cicek"
+           },
+           {
+              "id":7,
+              "parent_id":1,
+              "name":"Hoşgeldin Bebek",
+              "description":"-",
+              "order":7,
+              "slug":"hogeldin-bebek"
+           },
+           {
+              "id":8,
+              "parent_id":6,
+              "name":"Yeni İş & Terfi",
+              "description":"-",
+              "order":8,
+              "slug":"yeni-i-terfi"
+           },
+           {
+              "id":9,
+              "parent_id":6,
+              "name":"Düğün & Açılış & Tören",
+              "description":"-",
+              "order":9,
+              "slug":"duun-acl-toren"
+           },
+           {
+              "id":10,
+              "parent_id":6,
+              "name":"Geçmiş Olsun",
+              "description":"-",
+              "order":10,
+              "slug":"gecmi-olsun"
+           },
+           {
+              "id":11,
+              "parent_id":6,
+              "name":"Cenaze & Merasim",
+              "description":"-",
+              "order":11,
+              "slug":"cenaze-merasim"
+           }
+        ],
+        "slug":"gonderim-amacna-gore"
+     },
+    {
+       "id":1,
+       "name":"Kişiye özel ürünler",
+       "description":"-",
+       "order":2,
+       "slug":"kiiye-ozel-urunler",
+       "sub_category":null
+    },
+    {
+       "id":2,
+       "name":"Buketler",
+       "description":"-",
+       "order":3,
+       "sub_category":null,
+       "slug":"buketler"
+    },
+    {
+       "id":3,
+       "name":"Aranjmanlar",
+       "description":"-",
+       "order":4,
+       "sub_category":null,
+       "slug":"aranjmanlar"
+    },
+    {
+       "id":4,
+       "name":"Saksı Çiçekleri",
+       "description":"-",
+       "order":5,
+       "sub_category":null,
+       "slug":"saks-cicekleri"
+    },
+    {
+       "id":5,
+       "name":"Çelenkler",
+       "description":"-",
+       "order":6,
+       "sub_category":null,
+       "slug":"celenkler"
+    },
+    {
+       "id":6,
+       "name":"Ferforjeler",
+       "description":"-",
+       "order":7,
+       "sub_category":null,
+       "slug":"ferforjeler"
+    }
+    
+ ],
+  "users": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

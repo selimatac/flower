@@ -1,0 +1,161 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Sonsuz Sevgi 19 Beyaz Gül",
+            "description": "Virgil Abloh’s Off-White is a streetwear-inspired collection that continues to break away from the conventions of mainstream fashion. Made in Italy, these black and brown Odsy-1000 low-top sneakers.",
+            "photos":[{"url":"/images/img1.jpg"},{"url":"/images/img2.jpg"}],
+            "product_code": "BKT-1000",
+            "category_id": "1",
+            "price":"119"
+        },
+        {
+            "id": 2,
+            "name": "jsDoğal Ahşap Kütükte Papatya Aranjmanı",
+            "description": "Virgil Abloh’s Off-White is a streetwear-inspired collection that continues to break away from the conventions of mainstream fashion. Made in Italy, these black and brown Odsy-1000 low-top sneakers.",
+            "photos":[{"url":"/images/img1.jpg"},{"url":"/images/img2.jpg"}],
+            "product_code": "BKT-1000",
+            "category_id": "1",
+            "price":"119"
+        }
+    ],
+    "categories": [
+        {
+            "id": 1,
+            "name": "Kişiye özel ürünler",
+            "description":"-",
+            "order":2
+        },
+        {
+            "id": 2,
+            "name": "Buketler",
+            "description":"-",
+            "order":3
+        },
+        {
+            "id": 3,
+            "name": "Aranjmanlar",
+            "description":"-",
+            "order":4
+        },
+        {
+            "id": 4,
+            "name": "Saksı Çiçekleri",
+            "description":"-",
+            "order":5
+        },
+        {
+            "id": 5,
+            "name": "Çelenkler",
+            "description":"-",
+            "order":6
+        },
+        {
+            "id": 6,
+            "name": "Ferforjeler",
+            "description":"-",
+            "order":7
+        }
+        ,
+        {
+            "id": 6,
+            "name": "Gönderim Amacına Göre",
+            "description":"-",
+            "order":1
+        }
+    ],
+    
+    "sub_categories": [
+        {
+            "id": 1,
+            "parent_id":6,
+            "name": "Anneye Çiçek",
+            "description":"-",
+            "order":1
+        },
+        {
+            "id": 2,
+            "parent_id":6,
+            "name": "Sevgiliye Çiçek",
+            "description":"-",
+            "order":2
+        },
+        {
+            "id": 3,
+            "parent_id":6,
+            "name": "Öğretmene Çiçek",
+            "description":"-",
+            "order":3
+        },
+        {
+            "id": 4,
+            "parent_id":6,
+            "name": "Doğum Günü",
+            "description":"-",
+            "order":4
+        },
+        {
+            "id": 5,
+            "parent_id":6,
+            "name": "Özür Dilerim",
+            "description":"-",
+            "order":5
+        },
+        {
+            "id": 6,
+            "parent_id":6,
+            "name": "Babaya Çiçek",
+            "description":"-",
+            "order":6
+        },
+        {
+            "id": 7,
+            "parent_id":1,
+            "name": "Hoşgeldin Bebek",
+            "description":"-",
+            "order":7
+        },
+        {
+            "id": 8,
+            "parent_id":6,
+            "name": "Yeni İş & Terfi",
+            "description":"-",
+            "order":8
+        },
+        {
+            "id": 9,
+            "parent_id":6,
+            "name": "Düğün & Açılış & Tören",
+            "description":"-",
+            "order":9
+        },
+        {
+            "id": 10,
+            "parent_id":6,
+            "name": "Geçmiş Olsun",
+            "description":"-",
+            "order":10
+        },
+        {
+            "id": 11,
+            "parent_id":6,
+            "name": "Cenaze & Merasim",
+            "description":"-",
+            "order":11
+        }
+    ],
+   
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    "userinfo": {
+        "name": "typicode"
+    }
+}
